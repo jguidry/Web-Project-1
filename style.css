@@ -5,8 +5,15 @@
 * Description: Main style file for the Web-Project-1 site. 
 */ 
 
+body{ 
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+} 
 
-
+header nav{ 
+	display: flex;
+	justify-content: flex-end;
+}
 
 
 
